@@ -1,2 +1,2 @@
-# GFG-C-
+# GFG-C++
 Mini C++ Projects in C++ course
